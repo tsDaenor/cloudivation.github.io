@@ -3,16 +3,6 @@
 		z-index-base:	10000
 	);
 
-// Duration.
-	$duration: (
-		navPanel: 0.5s
-	);
-
-// Size.
-	$size: (
-		navPanel: 275px
-	);
-
 // Font.
 	$font: (
 	);
@@ -54,16 +44,6 @@
 
 		three: (
 			bg:			#645862,
-			fg:			#fff
-		),
-
-		navPanel: (
-			bg:			#1c2021,
-			fg:			#fff
-		),
-
-		navButton: (
-			bg:			rgba(163,169,170,0.75),
 			fg:			#fff
 		),
 
