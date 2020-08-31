@@ -1,0 +1,10 @@
+# Site settings
+title: Cloudivation
+description: "Cloudivation"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://locahost:4000" # the base hostname & protocol for your site
+excerpt_separator: "<!--more-->"
+github_username:  tsDaenor
+
+# Build settings
+markdown: kramdown
